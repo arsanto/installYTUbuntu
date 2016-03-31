@@ -2,4 +2,4 @@
 
 
 
-wget https://raw.githubusercontent.com/arsanto/installYTUbuntu/master/install.sh && chmod +x install.sh && ./install.sh
+wget --no-check-certificate https://raw.githubusercontent.com/arsanto/installYTUbuntu/master/install.sh && chmod +x install.sh && ./install.sh
