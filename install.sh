@@ -16,5 +16,5 @@ python setup.py install
 # youtube-dl
 
 apt-get install curl -y
-sudo curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl
-sudo chmod a+x /usr/local/bin/youtube-dl
+curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl
+chmod a+x /usr/local/bin/youtube-dl
