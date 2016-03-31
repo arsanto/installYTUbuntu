@@ -1,4 +1,4 @@
-# installYTUbuntu ubuntu-15.04-x86_64 /ubuntu-14.04-x86-minimal
+# installYTUbuntu ubuntu-15.04-x86_64 
 
 
 
