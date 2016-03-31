@@ -1,7 +1,8 @@
-sudo apt-get update  
-sudo add-apt-repository ppa:mc3man/trusty-media  
-sudo apt-get install ffmpeg -y
-sudo apt-get install frei0r-plugins -y  
+apt-get update -y
+apt-get install software-properties-common -y
+add-apt-repository ppa:mc3man/trusty-media -y
+apt-get install ffmpeg -y
+apt-get install frei0r-plugins -y  
 
 wget https://bootstrap.pypa.io/ez_setup.py -O - | python
 easy_install --upgrade google-api-python-client
