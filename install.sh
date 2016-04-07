@@ -43,3 +43,9 @@ apt-get install curl -y
 curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl
 chmod a+x /usr/local/bin/youtube-dl
 youtube-dl
+
+#install eyeD3
+apt-get install eyeD3
+eyeD3 --version
+
+
